@@ -1,5 +1,5 @@
 
-# README Generator
+# README Generator (Created with this app)
 
 ## Description
 README Generator is a command-line application that allows users to generate high-quality README.md files dynamically. It prompts the user for information about their application repository and generates a professional README.md file based on the provided input.
@@ -35,4 +35,9 @@ For questions or concerns regarding this project, feel free to reach out to the 
 
 - GitHub: [Chaosgale](https://github.com/Chaosgale)
 - Email: yantus@gmail.com
+
+------------------------------------------------------------
+------------------------------------------------------------
+## Link to video walkthrough
+https://drive.google.com/file/d/1AyzYB6LFoxiZS7XbcIktTsjtiZZMxnMe/view
   
